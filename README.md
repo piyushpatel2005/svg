@@ -54,6 +54,15 @@ V = Vertical line
 
 Z = Close path
 
+#### Curve commands with Path
+
+Q = Quadratic curve
+It requires two points. The first one being the meeting point of the two tangents and the second one being the end of the curve.
+
+
+
+
+
 
 
 
