@@ -23,7 +23,7 @@ SVG files can be saved as .svg or .svgz (gzip-compressed SVG).
 For uploading to the server, use HTTP headers:
 
 ```Content-Type: image/svg+xml
-	Vary: Accept-Encoding```
+Vary: Accept-Encoding```
 
 For all elements, SVG uses Grid system with its origin(0,0) at the top left position.
 
@@ -36,3 +36,10 @@ x - distance from x
 y - distance from y
 
 Only path element is totally different.It will allow us to create awesome images only using svg.
+
+#### Path element
+
+The "d" attribute contains a series of commands that allow a developer to draw complex images.
+M = Move to
+```M 10 10```  means move to (10, 10)
+
