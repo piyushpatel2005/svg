@@ -52,5 +52,8 @@ H = Horizontal line
 V = Vertical line
 ``` V -30``` draws vertical line in positive Y-axis (towards top) which is reverse in web context. 
 
+Z = Close path
+
+
 
 
