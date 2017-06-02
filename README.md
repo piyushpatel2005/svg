@@ -43,3 +43,14 @@ The "d" attribute contains a series of commands that allow a developer to draw c
 M = Move to
 ```M 10 10```  means move to (10, 10)
 
+L = Line to
+```L 10 20```  draws line to (10, 20) from current position.
+
+H = Horizontal line
+```H 20``` draws Horizontal line in positive X direction of length 20
+
+V = Vertical line
+``` V -30``` draws vertical line in positive Y-axis (towards top) which is reverse in web context. 
+
+
+
