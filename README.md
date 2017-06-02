@@ -59,7 +59,9 @@ Z = Close path
 Q = Quadratic curve
 It requires two points. The first one being the meeting point of the two tangents and the second one being the end of the curve.
 
+A = Arc
 
+A rx ry x-axis-rotation large-arc-flag sweep-flag x y
 
 
 
